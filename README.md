@@ -1,4 +1,4 @@
-# Cross-Dataset-QA-Performance
+# Cross-Dataset QA Performance
 
 Source code corresponding to the research paper: "Testing BERT for Generality in Cross-dataset Question Answering Performance", by Bootsma, Gaasbeek, 't Lam, Sekar and Weijts.
 
